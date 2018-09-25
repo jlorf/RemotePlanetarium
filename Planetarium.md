@@ -9,4 +9,5 @@ La Terra és el tercer planeta en distància respecte al Sol, el més dens i el 
 
 Hi habiten milions d'espècies, inclosos els humans; i és l'únic astre on se sap que hi ha vida.[23] El planeta es va formar fa aproximadament 4.600 milions d'anys, i hi va aparèixer vida en mil milions d'anys.[24] La biosfera de la Terra ha alternat significativament l'atmosfera i altres condicions abiòtiques, permetent la proliferació d'organismes aeròbics i la formació de la capa d'ozó que, juntament amb el camp magnètic terrestre, bloqueja la radiació solar perjudicial.[25] Les propietats físiques de la Terra, així com la seva història geològica i òrbita, han permès que la vida persisteixi durant aquest període. S'espera que el planeta pugui tenir vida durant com a mínim 500 milions d'anys més.
 
-Plutó
+# Plutó
+(134340) Plutó[nota 1] és el segon planeta nan mes gros del sistema solar (2.370 km de diàmetre, 44 km més que 136199 Eris) i, després d'Eris, el segon més massiu del sistema solar, cosa que en fa d'ell, el novè objecte més gros i el desè més massiu que gira directament al voltant del Sol. Plutó, el primer objecte transneptunià a ser identificat, té una òrbita al voltant del Sol que el porta a una distància d'entre 30 i 49 unitats astronòmiques i pertany al cinturó de Kuiper, del qual és el membre més gros i massiu conegut. 
