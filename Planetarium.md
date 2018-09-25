@@ -4,5 +4,9 @@ Venus és el segon planeta en proximitat al Sol, i l'orbita cada 224,7 dies terr
 # Mart
 Mart és el quart planeta del sistema solar segons la distància al Sol i el segon planeta més petit, després de Mercuri. El seu nom ve del déu de la guerra romà, i sovint se'l descriu com al "planeta vermell" o "planeta roig" a causa de la seva aparença vermellosa.[6] És un planeta tel·lúric amb una tènue atmosfera, i té característiques superficials que recorden els cràters d'impacte de la Lluna i els volcans, valls, deserts i els casquets polars de la Terra. El període de rotació i els cicles estacionals de Mart són prou similars als de la Terra, ja que és a causa de la inclinació que hi ha estacions. A Mart hi ha Olympus Mons, la segona muntanya més alta del sistema solar (la més alta d'un planeta) i Valles Marineris, un dels canyons més grans. La llisa vall boreal que cobreix el 40% del planeta hauria pogut ser causada per l'impacte d'un objecte en el passat.
 
-Terra
+# Terra
+La Terra és el tercer planeta en distància respecte al Sol, el més dens i el cinquè en mida dels vuit planetes del sistema solar. És també el més gran dels quatre planetes terrestres del sistema solar. De vegades s'anomena món o el planeta blau.[22]
+
+Hi habiten milions d'espècies, inclosos els humans; i és l'únic astre on se sap que hi ha vida.[23] El planeta es va formar fa aproximadament 4.600 milions d'anys, i hi va aparèixer vida en mil milions d'anys.[24] La biosfera de la Terra ha alternat significativament l'atmosfera i altres condicions abiòtiques, permetent la proliferació d'organismes aeròbics i la formació de la capa d'ozó que, juntament amb el camp magnètic terrestre, bloqueja la radiació solar perjudicial.[25] Les propietats físiques de la Terra, així com la seva història geològica i òrbita, han permès que la vida persisteixi durant aquest període. S'espera que el planeta pugui tenir vida durant com a mínim 500 milions d'anys més.
+
 Plutó
